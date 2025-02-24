@@ -3,7 +3,9 @@ Writeup for class
 
 
 Team Name: Thug$hakers
+
 Rating: 304/550
+
 Points:100 
 
 Sanity Check (Aymen) - Code in discord server
