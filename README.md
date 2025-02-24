@@ -1,6 +1,11 @@
 # TRX2025
 Writeup for class
 
+
+Team Name: Thug$hakers
+Rating: 304/550
+Points:100 
+
 Sanity Check (Aymen) - Code in discord server
 
 Er Titus (Aymen) - Picture of a guy in an airport. I reversed image searched it using tineye, found a lot of railway results. The description made it sound like an airport, so after seeing what's connected to the railway I got the airports name.
